@@ -535,14 +535,13 @@ function hmrAcceptRun(bundle, id) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _lodashThrottle = require("lodash.throttle");
 var _lodashThrottleDefault = parcelHelpers.interopDefault(_lodashThrottle);
-const HISTORY_KEY = "feedback-form-state";
 const form = document.querySelector(".feedback-form");
 form.addEventListener("input", (0, _lodashThrottleDefault.default)(onFormData, 500));
 form.addEventListener("submit", onSubmitForm);
 let formData = {};
 function onFormData(e) {
     formData[e.target.name] = e.target.value;
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(formData));
+    localStorage.setItem("feedback-form-state", JSON.stringify(formData));
 }
 function onSubmitForm(e) {
     e.preventDefault();
@@ -551,12 +550,12 @@ function onSubmitForm(e) {
     if (message.value === "" || email.value === "") alert(`Все поля должны быть заполнены`);
     else {
         e.currentTarget.reset();
-        localStorage.removeItem(HISTORY_KEY);
+        localStorage.removeItem("feedback-form-state");
         console.log(formData);
     }
 }
 (function updateDataFromLocalStorage() {
-    let data = JSON.parse(localStorage.getItem(HISTORY_KEY));
+    let data = JSON.parse(localStorage.getItem("feedback-form-state"));
     if (data) Object.entries(data).forEach(([key, value])=>{
         formData[key] = value;
         form.elements[key].value = value;

@@ -1,4 +1,4 @@
-7181
+7183
 40C:\goit-js-hw-08\node_modules\regenerate133047797381519270 1
 50C:\goit-js-hw-08\node_modules\braces\lib\expand.js121436361000000000 0
 44C:\goit-js-hw-08\node_modules\core-js-compat133047797379704137 1
@@ -30,7 +30,7 @@
 95C:\goit-js-hw-08\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs121436361000000000 0
 86C:\goit-js-hw-08\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md121436361000000000 0
 58C:\goit-js-hw-08\node_modules\regexpu-core\LICENSE-MIT.txt121436361000000000 0
-21C:\goit-js-hw-08\dist133047799986135956 1
+21C:\goit-js-hw-08\dist133048576722778840 1
 62C:\goit-js-hw-08\node_modules\yaml\dist\resolveSeq-d03cb037.js121436361000000000 0
 50C:\goit-js-hw-08\node_modules\ordered-binary\tests133047797345084227 1
 53C:\goit-js-hw-08\node_modules\weak-lru-cache\index.js121436361000000000 0
@@ -54,7 +54,7 @@
 68C:\goit-js-hw-08\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts121436361000000000 0
 72C:\goit-js-hw-08\node_modules\babel-plugin-polyfill-corejs3\lib\utils.js121012626000000000 0
 63C:\goit-js-hw-08\node_modules\unicode-match-property-ecmascript133047797379763981 1
-34C:\goit-js-hw-08\src\02-video.html133038977620000000 0
+34C:\goit-js-hw-08\src\02-video.html133048576346924386 0
 44C:\goit-js-hw-08\node_modules\simplelightbox133047799601761737 1
 31C:\goit-js-hw-08\src\index.html133047749791777192 0
 57C:\goit-js-hw-08\node_modules\terser\lib\equivalent-to.js121436361000000000 0
@@ -112,7 +112,7 @@
 88C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script\Caucasian_Albanian.js121436361000000000 0
 70C:\goit-js-hw-08\node_modules\@swc\helpers\src\_async_to_generator.mjs121436361000000000 0
 82C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js121436361000000000 0
-38C:\goit-js-hw-08\src\js\03-feedback.js133047774100513902 0
+38C:\goit-js-hw-08\src\js\03-feedback.js133048574815457865 0
 81C:\goit-js-hw-08\node_modules\@babel\helper-define-polyfill-provider\lib\utils.js121012626000000000 0
 125C:\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar133047797356676434 1
 78C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-matches-pseudo.js121436361000000000 0
@@ -315,7 +315,7 @@
 55C:\goit-js-hw-08\node_modules\parcel\src\.eslintrc.json121436361000000000 0
 40C:\goit-js-hw-08\node_modules\picocolors133047797381619004 1
 66C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\dialog.js121436361000000000 0
-35C:\goit-js-hw-08\dist\02-video.html133047799986016282 0
+35C:\goit-js-hw-08\dist\02-video.html133048576722719272 0
 55C:\goit-js-hw-08\node_modules\@babel\traverse\lib\scope133047797346152989 1
 72C:\goit-js-hw-08\node_modules\@jridgewell\source-map\dist\source-map.mjs121436361000000000 0
 86C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\General_Category\Number.js121436361000000000 0
@@ -964,7 +964,7 @@
 87C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script_Extensions\Brahmi.js121436361000000000 0
 54C:\goit-js-hw-08\node_modules\@trysound\sax\lib\sax.js121436361000000000 0
 45C:\goit-js-hw-08\node_modules\yaml\index.d.ts121436361000000000 0
-50C:\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133047799986116018 0
+50C:\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133047803506290474 0
 69C:\goit-js-hw-08\node_modules\@babel\plugin-transform-arrow-functions133047797378145250 1
 63C:\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Block.js121436361000000000 0
 66C:\goit-js-hw-08\node_modules\@babel\plugin-transform-literals\lib133047797333407224 1
@@ -1044,7 +1044,7 @@
 57C:\goit-js-hw-08\node_modules\yaml\dist\legacy-exports.js121436361000000000 0
 63C:\goit-js-hw-08\node_modules\@babel\types\lib\validators\react133047797356845984 1
 77C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script\Marchen.js121436361000000000 0
-46C:\goit-js-hw-08\dist\03-feedback.ba2d0753.css133047799986016282 0
+46C:\goit-js-hw-08\dist\03-feedback.ba2d0753.css133047803506190742 0
 52C:\goit-js-hw-08\node_modules\yaml\dist\parse-cst.js121436361000000000 0
 71C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-filters.js121436361000000000 0
 54C:\goit-js-hw-08\node_modules\weak-lru-cache\README.md121436361000000000 0
@@ -1331,7 +1331,7 @@
 88C:\goit-js-hw-08\node_modules\@babel\types\lib\modifications\appendToMemberExpression.js121012626000000000 0
 85C:\goit-js-hw-08\node_modules\unicode-match-property-value-ecmascript\LICENSE-MIT.txt121436361000000000 0
 50C:\goit-js-hw-08\node_modules\is-arrayish\index.js130855357210000000 0
-45C:\goit-js-hw-08\dist\03-feedback.5440b4f4.js133047799986016282 0
+45C:\goit-js-hw-08\dist\03-feedback.5440b4f4.js133047803506190742 0
 75C:\goit-js-hw-08\node_modules\unicode-property-aliases-ecmascript\README.md121436361000000000 0
 74C:\goit-js-hw-08\node_modules\unicode-match-property-value-ecmascript\data133047797337569549 1
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\KM.js121436361000000000 0
@@ -1411,7 +1411,7 @@
 59C:\goit-js-hw-08\node_modules\react-refresh\build-info.json121436361000000000 0
 70C:\goit-js-hw-08\node_modules\type-fest\source\fixed-length-array.d.ts121436361000000000 0
 68C:\goit-js-hw-08\node_modules\type-fest\source\iterable-element.d.ts121436361000000000 0
-46C:\goit-js-hw-08\dist\02-video.a74b541c.js.map133047799986116018 0
+46C:\goit-js-hw-08\dist\02-video.a74b541c.js.map133047803506300451 0
 69C:\goit-js-hw-08\node_modules\terser\lib\compress\compressor-flags.js121436361000000000 0
 67C:\goit-js-hw-08\node_modules\type-fest\source\merge-exclusive.d.ts121436361000000000 0
 64C:\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyJson.js121436361000000000 0
@@ -1473,7 +1473,7 @@
 79C:\goit-js-hw-08\node_modules\msgpackr-extract\src\.vs\src\v16\Browse.VC.db-shm121436361000000000 0
 78C:\goit-js-hw-08\node_modules\@babel\plugin-transform-duplicate-keys\README.md121012626000000000 0
 53C:\goit-js-hw-08\node_modules\to-regex-range\index.js121436361000000000 0
-49C:\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133047799986116018 0
+49C:\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133047803506300451 0
 68C:\goit-js-hw-08\node_modules\svgo\plugins\convertEllipseToCircle.js121436361000000000 0
 52C:\goit-js-hw-08\node_modules\to-regex-range\LICENSE121436361000000000 0
 69C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\innertext.js121436361000000000 0
@@ -2571,7 +2571,7 @@
 77C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script\Tagalog.js121436361000000000 0
 79C:\goit-js-hw-08\node_modules\@swc\helpers\lib\_define_enumerable_properties.js121436361000000000 0
 90C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script_Extensions\Samaritan.js121436361000000000 0
-48C:\goit-js-hw-08\dist\01-gallery.53390864.js.map133047799986116018 0
+48C:\goit-js-hw-08\dist\01-gallery.53390864.js.map133047803506300451 0
 94C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Binary_Property\ASCII_Hex_Digit.js121436361000000000 0
 78C:\goit-js-hw-08\node_modules\regenerate-unicode-properties\Script\Mahajani.js121436361000000000 0
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\WS.js121436361000000000 0
@@ -2972,7 +2972,7 @@
 44C:\goit-js-hw-08\node_modules\posthtml\types133047797344221768 1
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\IL.js121436361000000000 0
 89C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\private-methods-and-accessors.js121436361000000000 0
-32C:\goit-js-hw-08\dist\index.html133047799986016282 0
+32C:\goit-js-hw-08\dist\index.html133047803506190742 0
 48C:\goit-js-hw-08\node_modules\js-tokens\index.js131616141900000000 0
 64C:\goit-js-hw-08\node_modules\caniuse-lite\dist\lib\supported.js121436361000000000 0
 74C:\goit-js-hw-08\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133047797384032552 1
@@ -4130,6 +4130,7 @@
 88C:\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json121436361000000000 0
 90C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js121436361000000000 0
 66C:\goit-js-hw-08\node_modules\@swc\helpers\lib\_sliced_to_array.js121436361000000000 0
+49C:\goit-js-hw-08\dist\03-feedback.467e0566.js.map133048576722769178 0
 46C:\goit-js-hw-08\node_modules\.bin\resolve.ps1133047797385380824 0
 72C:\goit-js-hw-08\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js121436361000000000 0
 76C:\goit-js-hw-08\node_modules\@swc\helpers\lib\_skip_first_generator_next.js121436361000000000 0
@@ -5143,7 +5144,7 @@
 90C:\goit-js-hw-08\node_modules\@babel\helper-create-class-features-plugin\lib\typescript.js121012626000000000 0
 75C:\goit-js-hw-08\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js121436361000000000 0
 43C:\goit-js-hw-08\node_modules\@vimeo\player133047801740348445 1
-45C:\goit-js-hw-08\dist\01-gallery.7d68834f.css133047799986016282 0
+45C:\goit-js-hw-08\dist\01-gallery.7d68834f.css133047803506190742 0
 58C:\goit-js-hw-08\node_modules\@parcel\transformer-svg\test133047797335860554 1
 56C:\goit-js-hw-08\node_modules\@vimeo\player\package.json133047801740288610 0
 53C:\goit-js-hw-08\node_modules\@vimeo\player\README.md132935569970000000 0
@@ -7110,7 +7111,7 @@
 69C:\goit-js-hw-08\node_modules\@babel\core\lib\config\files\import.cjs121012626000000000 0
 74C:\goit-js-hw-08\node_modules\@babel\core\lib\config\files\module-types.js121012626000000000 0
 69C:\goit-js-hw-08\node_modules\@babel\core\lib\config\files\plugins.js121012626000000000 0
-49C:\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133047799986116018 0
+49C:\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133047803506300451 0
 67C:\goit-js-hw-08\node_modules\@babel\core\lib\config\files\types.js121012626000000000 0
 67C:\goit-js-hw-08\node_modules\@babel\core\lib\config\files\utils.js121012626000000000 0
 53C:\goit-js-hw-08\node_modules\@babel\compat-data\data133047797335182373 1
@@ -7163,20 +7164,21 @@
 43C:\goit-js-hw-08\node_modules\.bin\svgo.ps1133047797385410746 0
 41C:\goit-js-hw-08\node_modules\.bin\terser133047797385430690 0
 45C:\goit-js-hw-08\node_modules\.bin\terser.ps1133047797385430690 0
-45C:\goit-js-hw-08\dist\01-gallery.101ee4ef.css133047799986016282 0
+45C:\goit-js-hw-08\dist\01-gallery.101ee4ef.css133047803506190742 0
 48C:\goit-js-hw-08\dist\01-gallery.408b7017.js.map133047799861100072 0
 49C:\goit-js-hw-08\dist\01-gallery.40c4146b.css.map133047799861090086 0
-44C:\goit-js-hw-08\dist\01-gallery.53390864.js133047799986066156 0
+44C:\goit-js-hw-08\dist\01-gallery.53390864.js133047803506230648 0
 49C:\goit-js-hw-08\dist\01-gallery.73148af1.css.map133047799861090086 0
-49C:\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133047799986116018 0
-37C:\goit-js-hw-08\dist\01-gallery.html133047799986016282 0
+49C:\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133047803506300451 0
+37C:\goit-js-hw-08\dist\01-gallery.html133047803506190742 0
 42C:\goit-js-hw-08\dist\02-video.4c1cbd1f.js133047799860940488 0
 46C:\goit-js-hw-08\dist\02-video.4c1cbd1f.js.map133047799861090086 0
 42C:\goit-js-hw-08\dist\02-video.9cc7ca23.js133047799860940488 0
-42C:\goit-js-hw-08\dist\02-video.a74b541c.js133047799986066156 0
+42C:\goit-js-hw-08\dist\02-video.a74b541c.js133047803506230648 0
+45C:\goit-js-hw-08\dist\03-feedback.467e0566.js133048576722719272 0
 45C:\goit-js-hw-08\dist\03-feedback.83bdccb4.js133047799860940488 0
 45C:\goit-js-hw-08\dist\03-feedback.961e9da7.js133047799860940488 0
 49C:\goit-js-hw-08\dist\03-feedback.961e9da7.js.map133047799861090086 0
-38C:\goit-js-hw-08\dist\03-feedback.html133047799986016282 0
-47C:\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133047799986066156 0
-51C:\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133047799986116018 0
+38C:\goit-js-hw-08\dist\03-feedback.html133048576722719272 0
+47C:\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133047803506230648 0
+51C:\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133047803506300451 0
