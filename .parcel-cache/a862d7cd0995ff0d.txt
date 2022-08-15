@@ -1,9 +1,9 @@
 4456
 50C:\goit-js-hw-08\node_modules\type-fest\index.d.ts121436361000000000 0
-47C:\goit-js-hw-08\node_modules\@msgpackr-extract133050698889238351 1
+47C:\goit-js-hw-08\node_modules\@msgpackr-extract133050709716489910 1
 67C:\goit-js-hw-08\node_modules\@parcel\runtime-react-refresh\LICENSE121436361000000000 0
 62C:\goit-js-hw-08\node_modules\msgpackr-extract\src\.vs\src\v16133047797346920933 1
-34C:\goit-js-hw-08\package-lock.json133050698890035919 0
+34C:\goit-js-hw-08\package-lock.json133050709717866497 0
 64C:\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Number.js121436361000000000 0
 61C:\goit-js-hw-08\node_modules\@parcel\workers\src\Profiler.js121436361000000000 0
 48C:\goit-js-hw-08\node_modules\yaml\browser\types133047797343344096 1
@@ -11,7 +11,7 @@
 50C:\goit-js-hw-08\node_modules\posthtml-render\dist133047797344221768 1
 82C:\goit-js-hw-08\node_modules\@parcel\codeframe\node_modules\ansi-styles\readme.md121436361000000000 0
 69C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\autofocus.js121436361000000000 0
-29C:\goit-js-hw-08\package.json133050704773381436 0
+29C:\goit-js-hw-08\package.json133050708082223621 0
 87C:\goit-js-hw-08\node_modules\@parcel\codeframe\node_modules\color-convert\package.json133047797384002621 0
 61C:\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src133047797338487106 1
 50C:\goit-js-hw-08\node_modules\timsort\package.json133047797380531908 0
@@ -53,12 +53,12 @@
 50C:\goit-js-hw-08\node_modules\ordered-binary\tests133047797345084227 1
 36C:\goit-js-hw-08\node_modules\@lezer133047797370258099 1
 20C:\goit-js-hw-08\src133047795660205431 1
-29C:\goit-js-hw-08\node_modules133050698889098736 1
+29C:\goit-js-hw-08\node_modules133050709716320376 1
 74C:\goit-js-hw-08\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js121436361000000000 0
 58C:\goit-js-hw-08\node_modules\timsort\build\timsort.min.js131138624790000000 0
 108C:\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js121436361000000000 0
 34C:\goit-js-hw-08\src\02-video.html133048576346924386 0
-44C:\goit-js-hw-08\node_modules\simplelightbox133047799601761737 1
+44C:\goit-js-hw-08\node_modules\simplelightbox133050709716222514 1
 31C:\goit-js-hw-08\src\index.html133050682657027620 0
 57C:\goit-js-hw-08\node_modules\terser\lib\equivalent-to.js121436361000000000 0
 59C:\goit-js-hw-08\node_modules\lmdb\dependencies\lz4\lib\dll133047797356915793 1
@@ -89,7 +89,7 @@
 117C:\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js121436361000000000 0
 69C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\atob-btoa.js121436361000000000 0
 37C:\goit-js-hw-08\src\js\01-gallery.js133047774042613797 0
-49C:\goit-js-hw-08\node_modules\simplelightbox\demo133047799598057117 1
+49C:\goit-js-hw-08\node_modules\simplelightbox\demo133050709712170335 1
 71C:\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\custom-targets133047797358162460 1
 43C:\goit-js-hw-08\node_modules\timsort\build133047797341967784 1
 57C:\goit-js-hw-08\node_modules\@parcel\transformer-css\src133047797335142475 1
@@ -130,7 +130,7 @@
 69C:\goit-js-hw-08\node_modules\terser\node_modules\commander\Readme.md121436361000000000 0
 39C:\goit-js-hw-08\node_modules\@trysound133047797371829396 1
 79C:\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js121436361000000000 0
-37C:\goit-js-hw-08\node_modules\@parcel133050698889248355 1
+37C:\goit-js-hw-08\node_modules\@parcel133050709716499877 1
 73C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-overflow.js121436361000000000 0
 60C:\goit-js-hw-08\node_modules\simplelightbox\demo\index.html121436361000000000 0
 35C:\goit-js-hw-08\src\css\common.css133050697684986992 0
@@ -150,7 +150,7 @@
 85C:\goit-js-hw-08\node_modules\@parcel\markdown-ansi\node_modules\ansi-styles\index.js121436361000000000 0
 59C:\goit-js-hw-08\node_modules\terser\node_modules\commander133047797380721417 1
 43C:\goit-js-hw-08\node_modules\dotenv-expand133047797382785879 1
-35C:\goit-js-hw-08\node_modules\@lmdb133050698889238351 1
+35C:\goit-js-hw-08\node_modules\@lmdb133050709716489910 1
 57C:\goit-js-hw-08\node_modules\type-fest\source\entry.d.ts121436361000000000 0
 50C:\goit-js-hw-08\node_modules\electron-to-chromium133047797382785879 1
 47C:\goit-js-hw-08\node_modules\acorn\dist\bin.js121436361000000000 0
@@ -188,7 +188,7 @@
 72C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\font-loading.js121436361000000000 0
 71C:\goit-js-hw-08\node_modules\@parcel\optimizer-image\lib\loadNative.js121436361000000000 0
 49C:\goit-js-hw-08\node_modules\weak-lru-cache\dist133047797336253847 1
-53C:\goit-js-hw-08\node_modules\simplelightbox\demo\img133047799601019442 1
+53C:\goit-js-hw-08\node_modules\simplelightbox\demo\img133050709715410165 1
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CY.js121436361000000000 0
 38C:\goit-js-hw-08\node_modules\boolbase133047797383464068 1
 51C:\goit-js-hw-08\node_modules\mdn-data\package.json133047797382317144 0
@@ -1064,7 +1064,7 @@
 67C:\goit-js-hw-08\node_modules\@parcel\core\test\BundleGraph.test.js121436361000000000 0
 72C:\goit-js-hw-08\node_modules\terser\node_modules\commander\package.json133047797380591749 0
 86C:\goit-js-hw-08\node_modules\@parcel\markdown-ansi\node_modules\ansi-styles\readme.md121436361000000000 0
-49C:\goit-js-hw-08\node_modules\simplelightbox\dist133047799600959615 1
+49C:\goit-js-hw-08\node_modules\simplelightbox\dist133050709715350322 1
 95C:\goit-js-hw-08\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\changelog.md121436361000000000 0
 68C:\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\StyleSheet.js121436361000000000 0
 72C:\goit-js-hw-08\node_modules\@parcel\core\lib\requests\ConfigRequest.js121436361000000000 0
@@ -1152,7 +1152,7 @@
 66C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\brotli.js121436361000000000 0
 53C:\goit-js-hw-08\node_modules\@parcel\transformer-raw133047797378886031 1
 68C:\goit-js-hw-08\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js121436361000000000 0
-57C:\goit-js-hw-08\node_modules\simplelightbox\package.json133047799601677888 0
+57C:\goit-js-hw-08\node_modules\simplelightbox\package.json133050709716101331 0
 85C:\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs121436361000000000 0
 52C:\goit-js-hw-08\node_modules\@parcel\types\index.js121436361000000000 0
 39C:\goit-js-hw-08\node_modules\svgo\dist133047797354522213 1
@@ -1394,7 +1394,7 @@
 60C:\goit-js-hw-08\node_modules\postcss-value-parser\README.md121436361000000000 0
 52C:\goit-js-hw-08\node_modules\simplelightbox\LICENSE121436361000000000 0
 52C:\goit-js-hw-08\node_modules\source-map\lib\util.js131509318790000000 0
-52C:\goit-js-hw-08\node_modules\simplelightbox\.github133047799601039413 1
+52C:\goit-js-hw-08\node_modules\simplelightbox\.github133050709715430106 1
 64C:\goit-js-hw-08\node_modules\cosmiconfig\dist\ExplorerSync.d.ts121436361000000000 0
 84C:\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c121436361000000000 0
 58C:\goit-js-hw-08\node_modules\domutils\lib\manipulation.js121436361000000000 0
@@ -1404,7 +1404,7 @@
 58C:\goit-js-hw-08\node_modules\css-tree\lib\lexer\search.js121436361000000000 0
 54C:\goit-js-hw-08\node_modules\simplelightbox\README.md121436361000000000 0
 50C:\goit-js-hw-08\node_modules\json5\lib\unicode.js121436361000000000 0
-48C:\goit-js-hw-08\node_modules\simplelightbox\src133047799601019442 1
+48C:\goit-js-hw-08\node_modules\simplelightbox\src133050709715420132 1
 70C:\goit-js-hw-08\node_modules\simplelightbox\src\jquery-plugin-wrap.js121436361000000000 0
 78C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\insertadjacenthtml.js121436361000000000 0
 74C:\goit-js-hw-08\node_modules\parcel\node_modules\ansi-styles\package.json133047797381529238 0
@@ -1429,14 +1429,14 @@
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TG.js121436361000000000 0
 62C:\goit-js-hw-08\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
 75C:\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\AttributeSelector.js121436361000000000 0
-58C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\full133047799600590933 1
+58C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\full133050709714942921 1
 61C:\goit-js-hw-08\node_modules\caniuse-lite\data\regions\JE.js121436361000000000 0
 63C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\mouse.svg121436361000000000 0
 91C:\goit-js-hw-08\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node121436361000000000 0
 75C:\goit-js-hw-08\node_modules\parcel\node_modules\chalk\source\templates.js121436361000000000 0
 52C:\goit-js-hw-08\node_modules\color-convert\route.js121436361000000000 0
 66C:\goit-js-hw-08\node_modules\.bin\download-msgpackr-prebuilds.ps1133047797385221263 0
-59C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb133047799600740952 1
+59C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb133050709715100988 1
 83C:\goit-js-hw-08\node_modules\@parcel\codeframe\node_modules\color-convert\route.js121436361000000000 0
 66C:\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\02.jpg121436361000000000 0
 71C:\goit-js-hw-08\node_modules\caniuse-lite\data\features\blobbuilder.js121436361000000000 0

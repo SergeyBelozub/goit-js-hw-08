@@ -2060,6 +2060,6 @@ var _default = SimpleLightbox;
 exports["default"] = _default;
 global.SimpleLightbox = SimpleLightbox;
 
-},{}],"kaxSc":[function() {},{}]},["b4hXe","6XVkV"], "6XVkV", "parcelRequire7bc7")
+},{}],"kaxSc":[function() {},{}]},["b4hXe","6XVkV"], "6XVkV", "parcelRequire4c75")
 
 //# sourceMappingURL=01-gallery.53390864.js.map
