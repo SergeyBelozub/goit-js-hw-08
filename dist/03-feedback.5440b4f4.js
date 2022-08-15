@@ -551,7 +551,6 @@ function onSubmitForm(e) {
     else {
         e.currentTarget.reset();
         localStorage.removeItem("feedback-form-state");
-        console.log(formData);
     }
 }
 (function updateDataFromLocalStorage() {

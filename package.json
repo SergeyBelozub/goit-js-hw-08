@@ -1,7 +1,13 @@
 {
   "name": "goit-js-hw-08",
   "version": "1.0.0",
-  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "description": "",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1",
+    "parcel": "^2.7.0",
+    "simplelightbox": "^2.10.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
@@ -10,26 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/SergeyBelozub/goit-js-hw-08.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SergeyBelozub/goit-js-hw-08/issues"
   },
-  "dependencies": {
-    "@vimeo/player": "^2.17.1",
-    "joi": "^17.6.0",
-    "lodash.throttle": "^4.1.1",
-    "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.10.3"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.18.10",
-    "@babel/core": "^7.18.10",
-    "@babel/preset-env": "^7.18.10",
-    "parcel": "^2.7.0"
-  },
-  "homepage": "https://SergeyBelozub.github.io/go-it-js-hw-08",
-  "main": "index.js",
-  "description": ""
+  "homepage": "https://github.com/SergeyBelozub/goit-js-hw-08"
 }
